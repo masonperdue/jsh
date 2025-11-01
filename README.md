@@ -1,2 +1,2 @@
 # jsh
-baSH based shell writting in Julia
+baSH based shell written in Julia
